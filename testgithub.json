@@ -1,5 +1,5 @@
 {
-	"file": "https://github.com/quickaccessfor/projectrnaseqanalysis/blob/main/test.csv",
+	"file": "https://raw.githubusercontent.com/quickaccessfor/projectrnaseqanalysis/main/test.csv",
 	"name": "Test",
 	"header": 0,
 	"separator": ";",
