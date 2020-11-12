@@ -1,0 +1,13 @@
+{
+	"file": "https://raw.githubusercontent.com/quickaccessfor/projectrnaseqanalysis/main/PU1sets_upset.csv",
+	"name": "PU1",
+	"header": 0,
+	"separator": "\t",
+	"skip": 0,
+	"meta": [
+		{ "type": "id", "index": 0, "name": "Name" }
+	],
+	"sets": [
+		{ "format": "binary", "start": 1, "end": 12 }
+	]
+	}
