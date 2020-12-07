@@ -1,6 +1,6 @@
 {
-	"file": "https://raw.githubusercontent.com/quickaccessfor/projectrnaseqanalysis/main/RNAseq%20genesetsfc0.58%20for%20upset.csv",
-	"name": "Test",
+	"file": "https://raw.githubusercontent.com/quickaccessfor/projectrnaseqanalysis/main/RNAseq_genesetsfc0.58_for_upset.csv",
+	"name": "RNAseqDGE",
 	"header": 0,
 	"separator": "\t",
 	"skip": 0,
